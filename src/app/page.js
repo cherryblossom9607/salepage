@@ -28,7 +28,7 @@ export default function Page() {
     {
       id: 5,
       src: "/images/line@.png",
-      alt: "สมัครผ่านไลน์คลิก",
+      alt: "สมัครผ่านไลน์",
       href: "https://line.me/",
     },
     { id: 6, src: "/images/ad.png", alt: "Ad2" },
